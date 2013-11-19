@@ -18,9 +18,7 @@
 $('#bio').hide();
 
 
-$('#bio').slideDown(2000);
+$('#bio').slideDown(5000);
 
-$('#blogcont').hide();
 
-$('#blogcont').slideDown(5000);
 });
